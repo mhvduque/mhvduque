@@ -1,6 +1,6 @@
 ## 💫 **MARÍA HORNERO**
 #### *Medical Student | 42Madrid | Mathematics | Computer Science*
-![Dragon Banner](https://raw.githubusercontent.com/mhvduque/mhvduque/master/dragon_banner.png)
+![Dragon Banner](https://raw.githubusercontent.com/mhvduque/mhvduque/master/dragon_banner.jpeg)
 
 Student of Medicine with interests and skills in Mathematics and Data Science, Programming and Computer Science. Eager to learn everyday and never stop growing.
 
