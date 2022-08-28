@@ -1,16 +1,28 @@
-### Hi there 👋
+## 💫 **MARÍA HORNERO**
+#### *Medical Student | 42Madrid | Mathematics | Computer Science*
+![Dragon Banner](https://raw.githubusercontent.com/mhvduque/mhvduque/master/dragon_banner.png)
 
-<!--
-**mhvduque/mhvduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student of Medicine with interests and skills in Mathematics and Data Science, Programming and Computer Science. Eager to learn everyday and never stop growing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SKILLS
+🐍 Python
+
+💡 C
+
+🖥️ FrontEnd Development
+
+➗ R, SSPS25 and MATLAB
+
+
+### GITHUB STATS
+
+[![mhvduque's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhvduque)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### SOME MORE
+
+🔭 I’m currently working on a blog with some more info. 
+
+🌱 I’m currently learning a little more of everything everyday. 
+
